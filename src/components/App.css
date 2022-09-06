@@ -1,0 +1,129 @@
+.App {
+  background: #fff;
+  color: #333;
+  display: grid;
+  grid-template-columns: 17rem 45rem auto;
+  min-height: 100vh;
+  transition: background 0.2s;
+}
+
+.side-container {
+  height: 100vh;
+}
+
+.UserPanel {
+  margin: 0 !important;
+  padding: 5px !important;
+}
+.Channel-items {
+  padding: 0 !important;
+}
+.UserPanel-info {
+  margin: 0 !important;
+}
+.Messages-window {
+  height: auto !important;
+}
+.Messages-header {
+  padding: 0 !important;
+}
+.Messages-header {
+  height: auto !important;
+}
+.UserPanel-info__name {
+  font-size: 15px !important;
+}
+.Messages-header {
+  margin: 0 !important;
+}
+.self-message {
+  padding: 10px !important;
+  background: #5e5e5e;
+  min-height: auto !important;
+  display: block !important;
+}
+
+.Message__avatar {
+}
+
+.self-message .Message__avatar {
+  display: none !important;
+}
+
+.self-message .Message__time {
+  position: static !important;
+  display: block !important;
+  width: 100 !important;
+}
+
+.MessagesForm {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+.Messages-window {
+  padding-bottom: 0 !important;
+}
+
+button.MessagesForm-emoji-picker {
+  display: none !important;
+}
+
+section.emoji-mart.emoji-mart-light {
+  display: none !important;
+}
+.self-message {
+  padding: 10px !important;
+  background: #5e5e5e;
+  min-height: auto !important;
+  display: block !important;
+}
+
+.Message__avatar {
+}
+
+.self-message .Message__avatar {
+  display: none !important;
+}
+
+.self-message .Message__time {
+  position: static !important;
+  display: block !important;
+  width: 100 !important;
+}
+
+.MessagesForm {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+.Messages-window {
+  padding-bottom: 0 !important;
+}
+
+button.MessagesForm-emoji-picker {
+  display: none !important;
+}
+
+section.emoji-mart.emoji-mart-light {
+  display: none !important;
+}
+
+.App {
+  display: block !important;
+  max-width: 370px;
+  height: auto !important;
+  background: transparent !important;
+}
+
+.SidePanel {
+  height: auto !important;
+}
+
+.Messages {
+  padding: 0 !important;
+  height: auto !important;
+}
+form.MessagesForm {
+  padding: 0 !important;
+}
